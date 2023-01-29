@@ -1,15 +1,15 @@
 .content__cover {
-    margin-bottom: 92px;
+    margin-bottom: 94px;
 }
 
 @media screen and (max-width: 768px) {
     .content__cover {
-        margin-bottom: 88px;
+        margin-bottom: 90px;
     }
 }
 
 @media screen and (max-width: 450px) {
     .content__cover {
-        margin-bottom: 64px;
+        margin-bottom: 62px;
     }
 }

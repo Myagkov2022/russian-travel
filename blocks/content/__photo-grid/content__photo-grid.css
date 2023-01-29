@@ -1,10 +1,10 @@
 .content__photo-grid {
-    margin-bottom: 92px;
+    margin-bottom: 95px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
     .content__photo-grid {
-        margin-bottom: 88px;
+        margin-bottom: 92px;
     }
 }
 
