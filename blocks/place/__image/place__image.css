@@ -4,18 +4,19 @@
 
 @media screen and (max-width: 1024px) {
     .place__image {
-        width: 440px;
+        width: 43vw;
     }
 }
 
 @media screen and (max-width: 768px) {
     .place__image {
-        width: 340px;
+        width: 44vw;
     }
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 460px) {
     .place__image {
-        width: 100%;
+        width: 100vw;
+        object-fit: cover;
     }
 }

@@ -1,6 +1,5 @@
 .places {
     margin: 0 auto;
-    /*max-width: 1184px;*/
     width: calc(100% - 2*148px);
 }
 
@@ -12,11 +11,23 @@
 
 @media screen and (max-width: 768px) {
     .places {
-        width: calc(100% - 2*24px);
+        width: calc(100% - 48px);
     }
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 570px) {
+    .places {
+        width: calc(100% - 32px);
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .places {
+        width: calc(100% - 16px);
+    }
+}
+
+@media screen and (max-width: 460px) {
     .places {
         width: 100%;
     }

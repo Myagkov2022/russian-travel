@@ -18,7 +18,7 @@
         line-height: 160%;
     }
 }
-@media screen and (max-width: 450px){
+@media screen and (max-width: 460px){
     .intro__text {
         line-height: 163%;
     }
