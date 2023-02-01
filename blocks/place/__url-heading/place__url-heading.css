@@ -6,4 +6,6 @@
     line-height: 1;
     letter-spacing: 2px;
     color: var(--gray-color);
+    text-transform: uppercase;
+    display: block;
 }

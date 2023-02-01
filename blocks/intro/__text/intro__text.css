@@ -8,14 +8,13 @@
 }
 @media screen and (max-width: 1024px){
     .intro__text {
-        line-height: 159%;
+        line-height: 160%;
     }
 }
 
 @media screen and (max-width: 768px){
     .intro__text {
         max-width: 720px;
-        line-height: 160%;
     }
 }
 @media screen and (max-width: 460px){

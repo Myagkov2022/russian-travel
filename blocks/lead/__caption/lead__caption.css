@@ -7,7 +7,7 @@
     line-height: 0.6;
     letter-spacing: 1.5px;
     text-transform: uppercase;
-    color: var(--gray-color);
+    color: var(--white-color);
 }
 
 @media screen and (max-width: 768px) {

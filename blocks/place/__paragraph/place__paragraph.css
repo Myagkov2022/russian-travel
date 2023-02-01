@@ -12,23 +12,21 @@
     margin: 0;
 }
 
-
 @media screen and (max-width: 768px) {
     .place__paragraph {
         font-size: 16px;
         line-height: 163%;
-        margin: 0 0 25px;
-    }
-    .place__paragraph:last-child {
-        margin: 0;
+        margin-bottom: 25px;
     }
 }
 
 @media screen and (max-width: 460px) {
     .place__paragraph {
-        margin: 0 16px 25px;
+        margin-left: 16px;
+        margin-right: 16px;
     }
     .place__paragraph:last-child {
-        margin: 0 16px 0;
+        margin-left: 16px;
+        margin-right: 16px;
     }
 }
